@@ -183,7 +183,7 @@ function App() {
               type="submit"
               className="bg-morado h-20 w-20 rounded-full flex items-center justify-center hover:bg-offBlack outline-none "
             >
-              <img src="./src/assets/icon-arrow.svg" alt="->" />
+              <img src="/src/assets/icon-arrow.svg" alt="->" />
             </button>
             <div className="max-sm:w-[37%] h-[1px] bg-lightGrey "></div>
           </div>

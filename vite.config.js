@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://Oliva-Facundo.gihtub.io/FM-age-calculator-app"
+  base: "/FM-age-calculator-app/"
 })
